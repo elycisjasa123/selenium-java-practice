@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-14T10:18:37 PST" name="Default suite" finished-at="2023-12-14T10:19:00 PST" duration-ms="23052">
+    <groups>
+    </groups>
+    <test started-at="2023-12-14T10:18:37 PST" name="Default test" finished-at="2023-12-14T10:19:00 PST" duration-ms="23052">
+      <class name="day40.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:day40.LoginTest@2ddc9a9f]" started-at="2023-12-14T10:18:37 PST" name="setup" finished-at="2023-12-14T10:18:53 PST" duration-ms="16656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLogo()[pri:1, instance:day40.LoginTest@2ddc9a9f]" started-at="2023-12-14T10:18:53 PST" name="testLogo" finished-at="2023-12-14T10:18:56 PST" duration-ms="3223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogo -->
+        <test-method signature="testLogin()[pri:2, instance:day40.LoginTest@2ddc9a9f]" started-at="2023-12-14T10:18:57 PST" name="testLogin" finished-at="2023-12-14T10:18:58 PST" duration-ms="1927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:day40.LoginTest@2ddc9a9f]" started-at="2023-12-14T10:18:58 PST" name="tearDown" finished-at="2023-12-14T10:19:00 PST" duration-ms="1202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- day40.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
